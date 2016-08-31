@@ -9,7 +9,12 @@ const encoding = 'utf8'
 export default [
   {
     method: 'PUT',
-    path: '/records/{id}',
+    path: '/records/{id}/service',
+    config: {
+      description: 'Add service',
+      notes: 'Used to add a service entry to a record',
+      tags: ['api']
+    },
     handler (request, reply) {
       const { id } = request.params
       const { payload } = request
