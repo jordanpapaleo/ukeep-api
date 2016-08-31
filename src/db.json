@@ -1,0 +1,61 @@
+[
+  {
+    "id": "12345ABCDE",
+    "vehicle": {
+      "make": "Toyota",
+      "model": "4Runner",
+      "year": 1990
+    },
+    "service": [
+      {
+        "date": 1471212546816,
+        "location": "Castrol Xpress Lube",
+        "mileage": 114834,
+        "work": [
+          "Auto Transmission Flush",
+          "Power Steering Flush",
+          "Transfer Case Service"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "69870ABCDE",
+    "vehicle": {
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "year": 2010
+    },
+    "service": [
+      {
+        "date": 1471212546816,
+        "location": "Castrol Xpress Lube",
+        "mileage": 114834,
+        "work": [
+          "Auto Transmission Flush",
+          "Power Steering Flush",
+          "Transfer Case Service"
+        ]
+      },
+      {
+        "date": 1471212546816,
+        "location": "Castrol Xpress Lube",
+        "mileage": 114834,
+        "work": [
+          "Auto Transmission Flush",
+          "Power Steering Flush",
+          "Transfer Case Service"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1472685116533,
+    "vehicle": {
+      "make": "Subaru",
+      "model": "WRX",
+      "year": 2014
+    },
+    "service": []
+  }
+]
