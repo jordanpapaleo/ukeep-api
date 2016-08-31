@@ -1,4 +1,11 @@
-uKeep-Api
+# uKeep-api
+
+## TODO
+
+1. Unit tests
+1. Delete Endpoint
+1. Setup [hapi-swagger](https://github.com/glennjones/hapi-swagger/blob/master/usageguide.md)
+1. 
 
 ```
 {
