@@ -6,7 +6,17 @@
       "model": "4Runner",
       "year": 1990
     },
-    "service": []
+    "service": [
+      {
+        "date": 1473455909547,
+        "location": "The Auto Doctor",
+        "mileage": 193827,
+        "work": [
+          "Oil and filter change",
+          "Tire rotation"
+        ]
+      }
+    ]
   },
   {
     "id": "69870ABCDE",
